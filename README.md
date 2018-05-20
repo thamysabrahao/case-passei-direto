@@ -3,4 +3,4 @@ Notebooks com os códigos escritos para a análise do case para o cargo de cient
 
 A maneira correta de olhar os notebooks é:
 
-[1) (https://github.com/thamysabrahao/case-passei-direto/blob/master/Data%20extraction.ipynb)
+[1) Data extraction](https://github.com/thamysabrahao/case-passei-direto/blob/master/Data%20extraction.ipynb)
